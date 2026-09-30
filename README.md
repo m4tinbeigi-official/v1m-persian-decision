@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://devsponsors.github.io">
+    <img src="https://devsponsors.github.io/assets/badges/sponsor.svg" alt="DevSponsors Badge">
+  </a>
+</p>
+
 # v1m: System One Calibrated Decision Model for Persian
 
 **v1m** is an open-source, ultra-low latency System One decision model trained specifically for Persian and multilingual intent classification, risk assessment, and discrete business decisions.
